@@ -30,29 +30,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/xavier_assloo'
 global.syt = 'https://youtu.be/'
 global.sgh = 'https://github.com/YannPrtm'
-global.sgc = 'https://chat.whatsapp.com/E8RKQ9NhEkW0jOs3ut2Azx'
+global.sgc = 'https://chat.whatsapp.com/KHorlMi7ZwRHOZNlvxBC2M'
 global.swa = 'wa.me/6282252285143'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
 global.pdana = '082350496532'
-global.povo = '082350496532'
+global.povo = '082252285143'
 global.pgopay = '082252285143'
 global.ppulsa = '082252285143'
 global.ppulsa2 = '082350496532'
 global.psaweria = 'https://saweria.co/jbyannstore'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62823504965325'
+global.nomorbot = '62823504965326'
 global.nomorown = '6282252285143'
-global.namebot = 'Felixx Botz ラ'
-global.nameown = 'Ryan Aditya Prtm ラ'
+global.namebot = 'ғᴇʟɪxx-ʙᴏᴛ ラ'
+global.nameown = 'ʀʏᴀɴ ᴀᴅᴛ ᴘʀᴛᴍラ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282252285143', 'Ryan Aditya Prtm ラ', 'true']
+  ['6282252285143', 'Ryan ᴀᴅᴛ ᴘʀᴛᴍラ', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Felixx Botz ラ | By Ryan Aditya Prtm ラ' //Main Watermark
-global.wm2 = 'Ryan Aditya Prtm ラ'
-global.wm3 = 'FELIXX BOTZ ラ | By Ryan Aditya Prtm ラ'
+global.wm = 'Yann-BOT ラ | By Ryan Aditya ラ' //Main Watermark
+global.wm2 = 'Ryan Aditya Pratamaラ'
+global.wm3 = 'Yann-BOT ラ | By Ryan Aditya ラ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Yuki Adistyラ | ʙʏ ${global.nameown}`
-global.author = 'FELIXX BOTZ ラ' 
-global.packname = 'Ryan Aditya Prtm ラ'
+global.titlebot = `Yann-BOTラ | ʙʏ ${global.nameown}`
+global.author = 'Ryan Aditya ラ' 
+global.packname = 'Ryan Aditya ラ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Agustus 12 2022'
+global.ultahowner = 'November 4 2022'
 
 
 /*============== LOGO ==============*/
@@ -121,16 +121,16 @@ global.giflogo = 'https://i.ibb.co/jfZVKmC/babi2.jpg'
 global.giflogo2 = 'https://telegra.ph/file/3e43db00f875dd4416aa5.jpg'
 global.thumbs = ['https://telegra.ph/file/3e43db00f875dd4416aa5.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.thumbBanned = 'https://telegra.ph/file/42e553082d643f313b2d0.jpg'
-global.thumbWarn = 'https://telegra.ph/file/37a6ba618366399d44fcc.jpg'
-global.botintro = 'Hallo, Kenalin saya FELIXX BOTSaya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Ryan Aditya Prtm ラ* Saya di rilis pada tanggal\n🗓 ️_12/8/2022_'
-global.intro = 'https://telegra.ph/file/c2a65f0fc7577a8a99cfc.jpg'
+global.thumbBanned = 'https://telegra.ph/file/3e43db00f875dd4416aa5.jpg'
+global.thumbWarn = 'https://telegra.ph/file/3e43db00f875dd4416aa5.jpg'
+global.botintro = 'ʜᴀʟᴏ ᴋᴇɴᴀʟɪɴ sᴀʏᴀ ғᴇʟɪxx-ʙᴏᴛ ʏᴀɴɢ ᴅɪʙᴜᴀᴛ ᴏʟᴇʜ ʀʏᴀɴ ᴀᴅɪᴛʏᴀ\nsᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ʏᴀɴɢ ᴅᴀᴘᴀᴛ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇʀɪɴᴛᴀʜ ᴏᴛᴏᴍᴀᴛɪs\nsᴀʏᴀ ᴅɪʙɪᴋɪɴ ᴏᴡɴᴇʀ sᴀʏᴀ ᴜɴᴛᴜᴋ ɴᴀᴍʙᴀʜ ᴘᴇɴɢʜᴀsɪʟᴀɴ ᴅᴀʀɪ ᴅᴏɴᴀsɪ ᴅᴀɴ ᴋᴀʟɪᴀɴ ʏsɴɢ sᴇᴡᴀ ʙᴏᴛ ᴜɴᴛᴜᴋ ɢᴀɴᴛɪ ʟᴅᴄ ʜᴘ\nᴋᴀʟᴀᴜ ᴜᴀɴɢɴʏᴀ ᴄᴜᴋᴜᴘ ʙᴜᴀᴛ ɢᴀɴᴛɪ ᴅᴇᴠɪᴄᴇ ᴀᴊᴀ ᴅᴇʜ :),ᴏᴋ sᴇʟᴀᴍᴀᴛ ᴍᴀᴋᴇ ғᴇʟɪxx-ʙᴏᴛᴛ'
+global.intro = 'https://telegra.ph/file/3e43db00f875dd4416aa5.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Ryan Aditya Prtm ラ'
+global.nameowner = 'Ryan ᴀᴅᴛ ᴘʀᴛᴍラ'
 global.umurowner = '24'
-global.asalowner = 'Amerika Serikat, New York'
+global.asalowner = 'Indonesia, Jawa Barat'
 global.nomorowner = 'wa.me/6282252285143'
-global.pacarowner = 'Kepo amat sih;v'
+global.pacarowner = '-'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Ryan Aditya Prtm ラ`
+global.stickauth = `King Of Bear`
 
 global.multiplier = 38 // The higher, The harder levelup
 
