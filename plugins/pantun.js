@@ -22,8 +22,8 @@ ${pickRandom(global.pantun)}
                 },
                 {
                     urlButton: {
-                        displayText: ' SUBSCRIBE ME',
-                        url: 'https://youtu.be/pwLZpdfO8AU'
+                        displayText: 'YOUTUBE',
+                        url: 'https://youtu.be/'
                     }
                 },
                 {

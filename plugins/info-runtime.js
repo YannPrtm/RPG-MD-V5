@@ -28,16 +28,16 @@ const time = moment.tz('Asia/Jakarta').format('HH')
       }) * 1000
     }
     let muptime = clockString(_muptime)
- await conn.sendButton(m.chat, runnya,wm + '\n\n' + botdate, intro, [['🥞MENU','.listmenu']], m, {
+ await conn.sendButton(m.chat, runnya,wm + '\n\n' + botdate, intro, [['️⋮☰ 𝗠𝗘𝗡𝗨','.listmenu']], m, {
         contextInfo: {
             externalAdReply: {
                 mediaUrl: '',
                         mediaType: 2,
                         description: 'anu',
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `Subscribe YT My Bestie`,                                       previewType: 0,
+                        body: `ʀʏᴀɴ ᴀᴅɪᴛʏᴀ ラ`,                                       previewType: 0,
                         thumbnail: await (await fetch(`https://i.ibb.co/jfZVKmC/babi2.jpg`)).buffer(),
-                        sourceUrl: 'https://youtu.be/hklv-Ysqqac'
+                        sourceUrl: 'https://youtu.be/Iw6iEBM5rFc'
             }
         }
     })

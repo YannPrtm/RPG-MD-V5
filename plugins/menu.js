@@ -186,20 +186,20 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
 `, text.trim(), flaa, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
-    ], m, { 'document':{'url':'https://youtu.be/hklv-Ysqqac'},
+    ], m, { 'document':{'url':'https://youtu.be/Iw6iEBM5rFc'},
 'mimetype':global.dpdf,
-'fileName':'「 ᴹᴿ᭄ King Of Bear ×፝֟͜× 」',
+'fileName':'「 ʀʏᴀɴ ᴀᴅɪᴛʏᴀ ラ 」',
 'fileLength':fsizedoc,
 'pageCount':fpagedoc,
 'previewType':'pdf',
 contextInfo: { externalAdReply :{ showAdAttribution: true,
-                        sourceUrl: 'https://youtu.be/hklv-Ysqqac',
+                        sourceUrl: 'https://youtu.be/Iw6iEBM5rFc',
                         mediaType: 2,
-                        description: `⚘ ᴄʀᴇᴀᴛᴇ ᴹᴿ᭄ King Of Bear ×፝֟͜×`,
+                        description: `ʀʏᴀɴ ᴀᴅɪᴛʏᴀ ラ`,
                         title: `💌 My Ultah: ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
-                        body: `⚘ by ᴹᴿ᭄ King Of Bear ×፝֟͜×`,          previewType: 0,
+                        body: `ʀʏᴀɴ ᴀᴅɪᴛʏᴀ ラ`,          previewType: 0,
                         thumbnail: await (await fetch(thumb)).buffer(),
-                        mediaUrl: 'https://youtu.be/hklv-Ysqqac'
+                        mediaUrl: 'https://youtu.be/Iw6iEBM5rFc'
                         
                       }}
 })

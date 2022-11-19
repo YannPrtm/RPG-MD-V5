@@ -485,7 +485,7 @@ desc
  🗞️   *Status:*   Succes ✅ 
  💻️   *Options:*   ${isEnable ? 'ON' : 'OFF'} 
  🗳️   ${isAll ? 'Bot Only' : isUser ? '' : 'Chat Only'} 
- `, `${imgr + 'Options'}`, [['MENU', '.menu'],['OKE', 'Ok']],m)
+ `, `${imgr + 'Options'}`, [['️⋮☰ 𝗠𝗘𝗡𝗨', '.menu'],['OKE', 'Ok']],m)
  } 
  handler.help = ['settings'] 
  handler.tags = ['Bot'] 
