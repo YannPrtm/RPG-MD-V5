@@ -2,11 +2,11 @@
 const virtex1 = `Apaan sih ngentodd`;
 
 const virtex2 = `
-Apaan sih ngetodd
+Bacot Kontol !!
 `;
 
 const virtex3 = `
-apaan sihh ngttod
+apaan sihh ngenttod
 `;
 
 const virtex = pickRandom([virtex1, virtex2, virtex3])
